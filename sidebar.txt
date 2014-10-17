@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tae:home|Door43 (tae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tae|d43-tae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tae/archive/master.zip|d43-tae.zip]]
+
+**Recent Changes**
+{{changes>ns = tae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tae|Ethnologue data]]
+
